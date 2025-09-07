@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Freetime Wallet Updates</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:releaseNotesLink>https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+
+      <!-- DEB -->
+      <enclosure url="https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/download/v1.0.1/freetime-wallet-1.0.1.deb"
+                 sparkle:version="1.0.1"
+                 sparkle:shortVersionString="1.0.1"
+                 length="12345678"
+                 type="application/x-debian-package"/>
+
+      <!-- RPM -->
+      <enclosure url="https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/download/v1.0.1/freetime-wallet-1.0.1.rpm"
+                 sparkle:version="1.0.1"
+                 sparkle:shortVersionString="1.0.1"
+                 length="12345678"
+                 type="application/x-rpm"/>
+
+      <!-- SNAP -->
+      <enclosure url="https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/download/v1.0.1/freetime-wallet_1.0.1_amd64.snap"
+                 sparkle:version="1.0.1"
+                 sparkle:shortVersionString="1.0.1"
+                 length="12345678"
+                 type="application/x-snap"/>
+
+      <!-- MSI -->
+      <enclosure url="https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/download/v1.0.1/freetime-wallet-setup-1.0.1.msi"
+                 sparkle:version="1.0.1"
+                 sparkle:shortVersionString="1.0.1"
+                 length="12345678"
+                 type="application/x-msi"/>
+
+      <!-- EXE -->
+      <enclosure url="https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/releases/download/v1.0.1/freetime-wallet-setup-1.0.1.exe"
+                 sparkle:version="1.0.1"
+                 sparkle:shortVersionString="1.0.1"
+                 length="12345678"
+                 type="application/x-msdos-program"/>
+
+    </item>
+  </channel>
+</rss>
