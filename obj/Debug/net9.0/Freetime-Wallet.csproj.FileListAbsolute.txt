@@ -1,8 +1,0 @@
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.csproj.AssemblyReference.cache
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Avalonia/resources
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.GeneratedMSBuildEditorConfig.editorconfig
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.AssemblyInfoInputs.cache
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.AssemblyInfo.cs
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.csproj.CoreCompileInputs.cache
-/home/j/Freetime-Wallet/obj/Debug/net9.0/Freetime-Wallet.sourcelink.json
