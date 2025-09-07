@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FreetimeMaker/Freetime-Wallet-Desktop/issues"
   },
-  "homepage": "https://github.com/FreetimeMaker/Freetime-Wallet-Desktop#readme"
+  "homepage": "https://github.com/FreetimeMaker/Freetime-Wallet-Desktop#readme",
+  "dependencies": {
+    "tauri": "^0.15.0"
+  }
 }
